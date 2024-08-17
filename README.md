@@ -1,5 +1,3 @@
 # To-Do-List
 Using
-# HTML
-# Css
-# JavaScript
+HTML,Css,JavaScript
